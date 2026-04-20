@@ -1,8 +1,10 @@
 # Conocimiento
 Ejercicio # 10 extracción minera, procedimientos y vistas 
+
 #scrip 
 
 USE mineria;
+
 #procedimientos 
 
 DELIMITER //
